@@ -1,4 +1,4 @@
-# Hello-Word
+# Hello-Java
 
 class Simples {
   public static void main(String args[]) {

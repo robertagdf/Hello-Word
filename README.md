@@ -1,7 +1,14 @@
 # Hello-word
 
-class Simples {
-  public static void main(String args[]) {
-    System.out.printIn("Hello Word");
-  }
+namespace Hello Word 
+{
+    
+    public class Programa
+{
+    static void Main(string[] args[])
+    {
+        Console.WriteLine("Hello Word");
+        Console.ReadKey();
+    }
+ }
 }
